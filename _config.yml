@@ -1,0 +1,28 @@
+name: DiscoDisco
+favicon: null
+layout_spectrum: 0.5075693575199693
+typography_spectrum: 0.687160707777366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4369767701718956
+  lightness: 0.6849823393858969
+  saturation: 0.3510787608101964
+  rhythmicContrast: 0.05661783833056688
+purpose: []
